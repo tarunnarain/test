@@ -1,4 +1,7 @@
 master
 second master commit
+<<<<<<< HEAD
 writing this from branch of employee2
+writing this from branch of employee1
+let emp2 write
 to conflict
